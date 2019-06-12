@@ -6,12 +6,21 @@
 		"postcss": false,
 		"minified": true,
 		"newFeature": true,
-		"autoAudits": false
+		"coverView": true,
+		"autoAudits": true,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.6",
-	"appid": "wxa46b09d413fbcaff",
-	"projectname": "%E5%A4%A9%E4%BD%BF%E7%AB%A5%E8%A3%85",
+	"appid": "wx5d84386b3bc37ff5",
+	"projectname": "wechat-app-mall",
 	"scripts": {},
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
